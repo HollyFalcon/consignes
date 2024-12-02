@@ -1,2 +1,5 @@
 markdown: kramdown
 theme: minima
+
+exclude:
+  - dir_documents_bruts_rmd/
