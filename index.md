@@ -1,3 +1,3 @@
-- [Consignes TP1](consignes/.md)
-- [Consignes TP2](consignes/tutorial.md)
-- [Consignes TP3](consignes/guide.md)
+- [Consignes TP1](consignes/consignes_TP1.md)
+- [Consignes TP2](consignes/consignes_TP2.md)
+- [Consignes TP3](consignes/consignes_TP3.md)
