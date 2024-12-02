@@ -19,9 +19,6 @@ Bienvenue dans ce dépôt contenant tous les documents essentiels pour la réali
 2. **Lire attentivement les consignes :** 
    - Prenez le temps de bien comprendre les instructions afin de formater correctement votre document de réponse.
 
-3. **Récupérer le questionnaire :**
-   - Accédez à la section **Questionnaire** pour télécharger le modèle lié au TP.
-
 ---
 
 ## **Documents consignes**
@@ -29,12 +26,6 @@ Bienvenue dans ce dépôt contenant tous les documents essentiels pour la réali
 - [Consignes TP1](consignes/consignes_TP1.html) - Instructions pour le TP1.
 - [Consignes TP2](consignes/consignes_TP2.html) - Instructions pour le TP2.
 - [Consignes TP3](consignes/consignes_TP3.html) - Instructions pour le TP3.
-
----
-
-## **Questionnaire**
-
-- [⬇ Télécharger le Questionnaire TP1](questionnaire/Template_questionnaire_TP.html) - Questionnaire à utiliser pour le TP1.
 
 ---
 
