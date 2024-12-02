@@ -29,7 +29,7 @@ Bienvenue dans ce dépôt contenant tous les documents essentiels pour la réali
 
 ## **Questionnaire**
 
-- [Questionnaire TP1](questionnaire/Template_questionnaire_TP.html) - Modèle à remplir pour le TP1.
+- [Questionnaire TP1](questionnaire/Template_questionnaire_TP.html) - Questionnaire à utiliser pour le TP1.
 
 ---
 
