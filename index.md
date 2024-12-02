@@ -1,6 +1,6 @@
 ---
 title: "Page principales"
-layout: default
+layout: no-nav
 ---
 
 ![Logo ou Illustration](logo_ulaval.png)
