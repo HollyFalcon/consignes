@@ -6,8 +6,12 @@ output:
   html_document:
     toc: true
     toc_depth: 3
-    theme: united
+    css: custom.css
 ---
+
+<div style="position: absolute; top: 10px; right: 10px;">
+  <img src="logo_ulaval.png" alt="Top Right Image" style="width: 100px;">
+</div>
 
 # YAML
 - Mettre le titre du TP
@@ -20,6 +24,7 @@ output:
 # Consignes {.tabset}
 
 ## Générales
+### Consignes générales
 - Numéroter vos réponses avec le numéro de la question correspondante (sous-questions incluses)
 - Présenter vos réponses sous le format suivant:
   
@@ -36,6 +41,7 @@ print("list.files(XX).....")
 - Commenter les lignes de codes
 
 ## Spécifiques
+### Consignes spécifiques
 
 ### Jeu de données
 - Montrer un sommaire du jeu de données
