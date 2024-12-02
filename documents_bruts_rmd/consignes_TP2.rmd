@@ -1,5 +1,5 @@
 ---
-title: "Consignes_TP2"
+title: "Consignes - travail pratique II"
 author: "Antoine Gagnon & Felix Huot"
 date: "Généré le `r format(Sys.Date(), '%d %B %Y')`"
 output:
@@ -8,6 +8,10 @@ output:
     toc_depth: 3
     css: custom.css
 ---
+
+<div style="position: absolute; top: 10px; right: 10px;">
+  <img src="logo_ulaval.png" alt="Top Right Image" style="width: 100px;">
+</div>
 
 # YAML
 - Mettre le titre du TP

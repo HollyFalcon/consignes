@@ -1,5 +1,5 @@
 ---
-title: "Consignes_TP1"
+title: "Consignes - travail pratique I"
 author: "Antoine Gagnon & Felix Huot"
 date: "Généré le `r format(Sys.Date(), '%d %B %Y')`"
 output:
