@@ -1,7 +1,7 @@
 ---
-title: "Consigne"
+title: "Consignes_TP1"
 author: "Antoine Gagnon & Felix Huot"
-date: "Généré le 02 décembre 2024"
+date: "Généré le `r format(Sys.Date(), '%d %B %Y')`"
 output:
   html_document:
     toc: true
