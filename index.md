@@ -1,3 +1,8 @@
+---
+title: "Page principales"
+layout: default
+---
+
 ![Logo ou Illustration](logo_ulaval.png)
 
 # Documents pour les Consignes des Travaux Pratiques (TPs)
@@ -29,7 +34,7 @@ Bienvenue dans ce dépôt contenant tous les documents essentiels pour la réali
 
 ## **Questionnaire**
 
-- [Questionnaire TP1](questionnaire/Template_questionnaire_TP.html) - Questionnaire à utiliser pour le TP1.
+- [⬇ Télécharger le Questionnaire TP1](questionnaire/Template_questionnaire_TP.html) - Questionnaire à utiliser pour le TP1.
 
 ---
 
