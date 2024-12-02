@@ -1,4 +1,4 @@
 - [Consignes TP1](consignes/consignes_TP1.md)
 - [Consignes TP2](consignes/consignes_TP2.md)
 - [Consignes TP3](consignes/consignes_TP3.md)
-- [Consignes TP4](consignes/consignes_TP1.md)
+- [Consignes TP4](consignes/Consignes.html)
