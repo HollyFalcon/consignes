@@ -1,0 +1,56 @@
+---
+title: "Nom du TP"
+author: "Antoine Gagnon & Felix Huot"
+date: "Généré le `r format(Sys.Date(), '%d %B %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    theme: united
+---
+
+# Consignes
+Here is the rendered HTML consigne: [Lien consigne](https://raw.githubusercontent.com/HollyFalcon/consignes/ac2cf56c245b844116394070679bcf7ae5c67feb/Consignes.html)
+
+# Mise en contexte / question de recherche
+- Mise en contexte
+- Question
+
+# Objectifs (associé avec questions?)
+- objectif1 
+- objectif2
+
+# Présentation des données
+Les données pour ce travail pratique se trouve sur [kaggle](https://www.kaggle.com/), une plateforme web qui mets à la disposition des usagers une vaste bibliothèque de jeux de données publics disponibles gratuitement et couvrant des thèmes variés tels que la santé, la finance et l'agriculture.
+
+Pour obtenir les données et lire leur description, rendez-vous directement sur [la page kaggle présentant le jeux de données des citrouilles](https://www.kaggle.com/datasets/usda/a-year-of-pumpkin-prices)
+
+Sur la page, vous devrez cliquer sur *télécharger* et choisir de télécharger le fichier .zip qui contient les 13 fichiers .CSV
+
+
+# Questions
+## 1. Importer les données présentées précédemment.
+Laisse libre choix à l'étudiant d'utiliser les fonctions qu'il veut.  
+Nous considérons que la matière est comprise.
+
+## 2. Importer les données présentées précédemment.
+Permet de guider l'étudiant pour s'assurer qu'il utilise les fonctions souhaitées
+
+### 2.1 Faire une liste de fichiers avec list.files
+```{r}
+print("test")
+```
+
+### 2.2 Utiliser lapply pour importer les fichiers
+
+# Documentation {.tabset} 
+## Aide-mémoires généraux
+- [R base](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
+- [rmarkdown](https://rstudio.github.io/cheatsheets/rmarkdown.pdf)
+- [ggplot2]([123.html](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf))
+- [import de données (tidyverse)](https://rstudio.github.io/cheatsheets/data-import.pdf)
+- [Data transformation (dplyr)](https://rstudio.github.io/cheatsheets/data-transformation.pdf)
+- [lubridate](https://rstudio.github.io/cheatsheets/lubridate.pdf)
+
+## Aide-mémoires spécifiques
+- Section propre au createur du TP
